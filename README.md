@@ -1,6 +1,4 @@
 # ai201-project4-provenance-guard-Satya-Pandla
-
-# ai201-project4-provenance-guard-Satya-Pandla
 # Provenance Guard
 
 A backend system that classifies submitted text as likely AI-generated, likely human-written, or uncertain — with a confidence score, a plain-language transparency label, an appeals path for contested classifications, rate limiting, and a structured audit log.
