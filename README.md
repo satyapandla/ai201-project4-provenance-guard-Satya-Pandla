@@ -169,5 +169,5 @@ Structured JSON, one entry per event. Captures timestamp, content ID, creator ID
 **Instance 3 — Threshold recalibration (Milestone 6).** After writing the README, I ran the four required test cases against my live system and found the AI-confidence threshold (0.75, set in Milestone 2 before I had any real data) was unreachable — even the spec's "clearly AI-generated" example only scored 0.538. I directed the AI tool to lower the threshold to 0.50. I verified this by re-running the same four test scores against the new threshold and confirming `likely_ai` now fires correctly, and that the change didn't accidentally break the human-side classification of the clearly-human example.
 
 ## Portfolio Walkthrough
+https://canva.link/qtlfjzie37mu7zi
 
-[Link to video]
